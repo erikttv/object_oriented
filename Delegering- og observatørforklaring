@@ -1,0 +1,6 @@
+Delegeringsteknikk:
+Delegerer oppgaver til andre klasser. Dette gjør man blant annet i office oppgaven, hvor printeren printer ut dokumentene, samt husker hvem av de ansatte som har printet og hva. 
+
+
+Observatør-observer-teknikk:
+Hvis en klasse forandrer seg så sier den ifra til en annen klasse at den også skal forandre seg. 
